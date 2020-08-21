@@ -9,13 +9,6 @@ parallelism (preemptive/multi-core systems...), and safety-critical software (fa
 ### :computer: I'm working on
 * building a cloud platform for safety-critical applications.
 
-**Connect with me:**
-<p align="left">
-<a href="https://www.linkedin.com/in/bertrandngoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="mailto:bertrand.ngoy@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
-
-
 ### ⚡ Technologies 
 
 <p>
@@ -48,6 +41,15 @@ parallelism (preemptive/multi-core systems...), and safety-critical software (fa
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ARM_logo.svg/952px-ARM_logo.svg.png"></code>
 
 </p>
+
+
+**Connect with me:**
+<p align="left">
+<a href="https://www.linkedin.com/in/bertrandngoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="35" width="35" /></a> &nbsp;&nbsp;
+  <a href="mailto:bertrand.ngoy@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="35" width="35" /></a> &nbsp;&nbsp;
+</p>
+
+
 
 ### Credits to
 - [Ihor Hedz](https://dribbble.com/gedzdesign) for the [illustration](https://dribbble.com/shots/8072458-Future-Tech-Business).
