@@ -9,6 +9,10 @@ parallelism (preemptive/multi-core systems...), and safety-critical software (fa
 ### :computer: I'm working on
 * building a cloud platform for safety-critical applications.
 
+### :notebook: I'm learning
+* Ansible
+* Rust
+
 ### ⚡ Technologies 
 
 <p>
