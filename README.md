@@ -3,9 +3,8 @@
 <!--
 **bngoy/bngoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### I'm Bertrand,
 
-I am a software engineer interested in close-to-hardware projects (os, kernel, microprocessors, ...), parallelism (preemptive/multi-core systems, ...), and safety-critical software (fault-tolerance, fail-safe, real-time, ...).
+I'm Bertrand, a software engineer interested in close-to-hardware projects (os, kernel, microprocessors, ...), parallelism (preemptive/multi-core systems, ...), and safety-critical software (fault-tolerance, fail-safe, real-time, ...).
 
 Here are some ideas to get you started:
 
