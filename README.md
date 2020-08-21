@@ -2,7 +2,7 @@
 
 <img align="right" alt="Inside Computer" src="https://static.dribbble.com/users/902546/screenshots/8072458/media/c123703735b0522ac81e1b3fb5aad439.png" width="400" height="300" />
 
-I'm Bertrand :fr:, a software engineer interested in close-to-hardware projects (os, kernel, microprocessors...),
+I'm Bertrand :fr:, software engineer interested in close-to-hardware projects (os, kernel, microprocessors...),
 parallelism (preemptive/multi-core systems...), and safety-critical software (fault-tolerance, fail-safe, real-time...).
 
 
