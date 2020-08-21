@@ -6,6 +6,9 @@ I'm Bertrand, a software engineer interested in close-to-hardware projects (os, 
 parallelism (preemptive/multi-core systems...), and safety-critical software (fault-tolerance, fail-safe, real-time...).
 
 
+### :computer: I'm working on
+* building a cloud platform for safety-critical applications.
+
 **Connect with me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/bertrandngoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="40" width="40" /></a> &nbsp;&nbsp;
