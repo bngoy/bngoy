@@ -8,7 +8,7 @@ parallelism (preemptive/multi-core systems, ...), and safety-critical software (
 **Connect with me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/bertrandngoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="bertrand.ngoy@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="mailto:bertrand.ngoy@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
 
