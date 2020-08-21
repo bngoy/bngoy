@@ -11,6 +11,14 @@ parallelism (preemptive/multi-core systems, ...), and safety-critical software (
   <a href="bertrand.ngoy@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
+
+### ⚡ Technologies 
+TODO
+
+### Credits to
+- [Ihor Hedz](https://dribbble.com/gedzdesign) for the illustration: https://dribbble.com/shots/8072458-Future-Tech-Business
+
+
 <!--
 **bngoy/bngoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,5 +33,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## ⚡ Technologies 
