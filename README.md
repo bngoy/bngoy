@@ -17,7 +17,37 @@ parallelism (preemptive/multi-core systems...), and safety-critical software (fa
 
 
 ### ⚡ Technologies 
-TODO
+
+<p>
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+
+  <code><img width="10%" src="https://simpleicons.org/icons/c.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/cplusplus.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <br />
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+  <code><img width="10%" src="hhttps://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <br />
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencontainers/opencontainers-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-ar21.svg"></code>
+  <br />
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ARM_logo.svg/952px-ARM_logo.svg.png"></code>
+
+</p>
 
 ### Credits to
 - [Ihor Hedz](https://dribbble.com/gedzdesign) for the [illustration](https://dribbble.com/shots/8072458-Future-Tech-Business).
