@@ -10,6 +10,7 @@ parallelism (preemptive/multi-core systems...), and safety-critical software (fa
 * building a cloud platform for safety-critical applications.
 
 ### :notebook: I'm learning
+* Kubernetes
 * Ansible
 * Rust
 
