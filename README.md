@@ -13,6 +13,7 @@ parallelism (preemptive/multi-core systems...), and safety-critical software (fa
 * Kubernetes
 * Ansible
 * Rust
+* Go
 
 ### ⚡ Technologies 
 
