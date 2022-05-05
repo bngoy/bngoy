@@ -3,15 +3,14 @@
 <img align="right" alt="Inside Computer" src="https://static.dribbble.com/users/902546/screenshots/8072458/media/c123703735b0522ac81e1b3fb5aad439.png" width="400" height="300" />
 
 I'm Bertrand :fr:, software engineer interested in close-to-hardware projects (os, kernel, microprocessors...),
-parallelism (preemptive/multi-core systems...), and safety-critical software (fault-tolerance, fail-safe, real-time...).
+DevOps & Platform engineering (tooling abstractiona & automation...), and safety-critical software (QA, fault-tolerance, fail-safe, real-time...).
 
 
 ### :computer: I'm working on
 * building a cloud platform for safety-critical applications.
 
 ### :notebook: I'm learning
-* Kubernetes
-* Ansible
+* Google Cloud
 * Rust
 * Go
 
@@ -37,15 +36,25 @@ parallelism (preemptive/multi-core systems...), and safety-critical software (fa
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencontainers/opencontainers-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
+  <br />
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code> 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
   <br />
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-ar21.svg"></code>
   <br />
   
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ARM_logo.svg/952px-ARM_logo.svg.png"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/intel/intel-ar21.svg"></code>
 
+  
 </p>
 
 
