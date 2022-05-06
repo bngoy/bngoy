@@ -10,7 +10,7 @@ DevOps & Platform engineering (tooling abstraction & automation...), and safety-
 * building a cloud platform for safety-critical applications.
 
 ### :notebook: I'm learning
-* Google Cloud
+* Google Cloud Platform
 * Rust
 * Go
 
