@@ -4,7 +4,7 @@
 
 **Platform engineer for safety-critical systems** — I build platforms of all sorts, from **real-time kernels** to **cloud-native** and **DevSecOps**. Now **diving into AI-powered engineering**.
 
-Whatever the layer — a real-time microkernel, a Kubernetes paved road, or a DevSecOps pipeline — what I really enjoy is building the tools and designs that enable and empower other engineers to do their best work. These days I treat the LLM agent as part of the toolchain, and I'm wiring a "second brain" to stay ahead of the firehose.
+Whatever the layer — a real-time microkernel, a cloud landing zone, a Kubernetes paved road, or a CI/CD toolchain — what I really enjoy is building the tools and designs that enable and empower other engineers to do their best work. These days I treat the LLM agent as part of the toolchain, and I'm wiring a "second brain" to stay ahead of the firehose.
 
 - 🔭 Building a **cloud platform for safety-critical applications**
 - 🧠 Wiring a **second brain** for tech-knowledge management — staying current with new tech: RSS → data ingestion → agent processing (Claude API) → web reporting (Telegram + a custom React front end)
@@ -72,6 +72,12 @@ Whatever the layer — a real-time microkernel, a Kubernetes paved road, or a De
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📚 Currently reading
+
+- *Build a Large Language Model (From Scratch)* — Sebastian Raschka
+- *Designing Data-Intensive Applications* — Martin Kleppmann
+- *Functional Programming in Scala* — Paul Chiusano & Rúnar Bjarnason
 
 ### 🤝 Connect
 
